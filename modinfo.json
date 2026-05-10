@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "biggercellarsrebuilt",
+  "name": "Bigger Cellars Rebuilt",
+  "authors": ["_RaptorOne_"],
+  "description": "Allows larger valid rooms to count as cellars.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.22.2"
+  }
+}

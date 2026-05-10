@@ -1,0 +1,38 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+
+# Logs
+*.log
+
+# Build output
+bin/
+obj/
+dist/
+build/
+out/
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# .NET
+*.pdb
+*.cache
+*.nupkg
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Local config
+.env
+.env.*
